@@ -1,5 +1,5 @@
 
-https://i.ibb.co/3MN74YG/jackson-sophat-t-l5-FFH8-VA-unsplash.jpg
+<img src="https://i.ibb.co/3MN74YG/jackson-sophat-t-l5-FFH8-VA-unsplash.jpg"  width="500" height="600">
 <h1 align="center">Hi 👋, I'm Tamanna Chadni</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
