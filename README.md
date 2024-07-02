@@ -1,4 +1,4 @@
-#### Hi I am a passionate  a Front-end Developer  👋
+## Hi I am a passionate  a Front-end Developer  👋
 
 
 **tamannaChadni/tamannaChadni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
