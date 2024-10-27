@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/3MN74YG/jackson-sophat-t-l5-FFH8-VA-unsplash.jpg" >
 <h1 align="center">Hi 👋, I'm Tamanna Chadni</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamannachadni&label=Profile%20views&color=0e75b6&style=flat" alt="tamannachadni" /> </p>
 
